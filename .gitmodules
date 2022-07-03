@@ -1,0 +1,3 @@
+[submodule "spaceship_interface"]
+	path = spaceship_interface
+	url = https://github.com/fegaeze/spaceship_interface.git
